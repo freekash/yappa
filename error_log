@@ -1,0 +1,12 @@
+[19-May-2019 11:13:16 Etc/GMT] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; DbClass has a deprecated constructor in /home/krushqbd/public_html/yappa.in/hrtps.php(21) : runtime-created function on line 1118
+[19-May-2019 13:58:31 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /home/krushqbd/public_html/yappa.in/wp-includes/formatting.php on line 2218
+[19-May-2019 13:58:31 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /home/krushqbd/public_html/yappa.in/wp-includes/formatting.php on line 2218
+[31-Jul-2019 11:29:17 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /home/krushqbd/public_html/yappa.in/wp-includes/formatting.php on line 1595
+[31-Jul-2019 11:29:18 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/krushqbd/public_html/yappa.in/wp-includes/functions.php on line 4948
+[31-Jul-2019 11:29:18 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /home/krushqbd/public_html/yappa.in/wp-includes/formatting.php on line 1595
+[31-Jul-2019 11:29:19 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/krushqbd/public_html/yappa.in/wp-includes/functions.php on line 4948
+[31-Jul-2019 11:29:19 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /home/krushqbd/public_html/yappa.in/wp-includes/formatting.php on line 1595
+[31-Jul-2019 11:29:19 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /home/krushqbd/public_html/yappa.in/wp-includes/formatting.php on line 1595
+[31-Jul-2019 11:29:19 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 32768 bytes) in /home/krushqbd/public_html/yappa.in/wp-includes/class-wp-query.php on line 2552
+[31-Jul-2019 11:29:20 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 32768 bytes) in /home/krushqbd/public_html/yappa.in/wp-includes/class-wp-query.php on line 2552
+[31-Jul-2019 11:29:21 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /home/krushqbd/public_html/yappa.in/wp-includes/formatting.php on line 1595
